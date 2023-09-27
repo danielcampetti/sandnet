@@ -1,0 +1,30 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Pool\" style=\"swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;connectable=1;resizable=1;rotatable=1;cloneable=0;deletable=1;fontSize=16;editable=1;movable=1;locked=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-1.1368683772161603e-13\" width=\"350\" height=\"361\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 350,
+    "h": 361,
+    "aspect": "fixed",
+    "title": "POOL"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=waypoint;fillStyle=auto;size=6;pointerEvents=0;points=[];fillColor=#f5f5f5;resizable=1;rotatable=1;perimeter=centerPerimeter;snapToPoint=0;expand=0;deletable=1;shadow=0;strokeWidth=4;strokeColor=default;movable=1;editable=1;locked=0;connectable=1;cloneable=0;fontColor=#333333;allowArrows=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 20,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "DOT"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 38px;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;1&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rhombus;whiteSpace=wrap;html=1;fillColor=#66FFFF;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-1.1368683772161603e-13\" width=\"80\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "TIME"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 33px;&amp;quot;&amp;gt;P1&amp;lt;/font&amp;gt;\" style=\"ellipse;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-1.1368683772161603e-13\" width=\"80\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "PLAYER"
+  }
+]</mxlibrary>
