@@ -65,11 +65,9 @@ Google Drive Installation (closed beta 1.3v)
 
 [2] After that, unzip the file and you can place it in a folder on Google Drive. 
 Due to features like auto-save and real-time project sharing that Google Drive offers, this is the recommended option.
-
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/fefd1bb0-0d94-411e-ad38-6df8acdb987b)
 
 [3] Open https://app.diagrams.net/
-
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/a15c7240-245d-46bd-be3f-939854d6bf02)
 
 
