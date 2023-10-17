@@ -12,16 +12,8 @@ You can use its interface to create different types of diagrams like flowcharts,
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/2ea97509-5e44-42f9-9ae7-a11cbe6abc56)
 
 SandNet offers four graph libraries from The Sandbox Game Maker.
-TABLE
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
+LIBRARY TABLE
 <table class="tg">
 <thead>
   <tr>
