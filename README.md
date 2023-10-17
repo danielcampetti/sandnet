@@ -61,8 +61,7 @@ Diagrams.io lets you use your files and libraries in a variety of ways, from loc
 Google Drive Installation (closed beta 1.3v)
 
 [1] Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it
-![Uploading image.png…]()
-
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/d9ea35d4-8e54-4965-a8a2-559157ba64d2)
 
 [2] After that, unzip the file and you can place it in a folder on Google Drive. 
 Due to features like auto-save and real-time project sharing that Google Drive offers, this is the recommended option
