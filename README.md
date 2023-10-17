@@ -24,44 +24,50 @@ LIBRARY TABLE
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">lib_main-1.3</td>
+    <td class="tg-0pky">lib_main-1.3.xml</td>
     <td class="tg-0pky">7</td>
     <td class="tg-0lax">"POOL, DOT, TIME, PLAYER, TAG, ASSET-LIST, HIERARCHY"</td>
   </tr>
   <tr>
-    <td class="tg-0pky">lib_behaviors-1.3</td>
+    <td class="tg-0pky">lib_behaviors-1.3.xml</td>
     <td class="tg-0pky">37</td>
     <td class="tg-0lax">ALL TSB Behaviors + Separated by types</td>
   </tr>
   <tr>
-    <td class="tg-0pky">lib.components-1.3</td>
+    <td class="tg-0pky">lib.components-1.3.xml</td>
     <td class="tg-0pky">21</td>
     <td class="tg-0lax">ALL TSB Components + Separated by types</td>
   </tr>
   <tr>
-    <td class="tg-0pky">lib_quests-1.3</td>
+    <td class="tg-0pky">lib_quests-1.3.xml</td>
     <td class="tg-0pky">7</td>
     <td class="tg-0lax">Collect, TDeath, TSurvive, TDefend, TMessage, Message, Death</td>
   </tr>
   <tr>
-    <td class="tg-0lax">lib_settings-1.3</td>
+    <td class="tg-0lax">lib_settings-1.3.xml</td>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">AVATAR, CAM-3rd, CAM-1st, CAM-Angled, CAM-Top, CAM-Comp, CAM-Control</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">+Sandnet_MAIN_1.3v.drawio</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Draw.io file</td>
   </tr>
 </tbody>
 </table>
 
-SETUP (recommended)
+SETUP
 Diagrams.io lets you use your files and libraries in a variety of ways, from locally to GitHub or Google Drive.
 Google Drive Installation (closed beta 1.3v)
 
-Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it:
+[1] Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it:
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/084bd3a2-866c-4dd1-b043-fe6202a7c8fa)
 
-After that, unzip the file and you can place it in a folder on Google Drive. 
+[2] After that, unzip the file and you can place it in a folder on Google Drive. 
 Due to features like auto-save and real-time project sharing that Google Drive offers, this is the recommended option.
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/fefd1bb0-0d94-411e-ad38-6df8acdb987b)
 
-
+[3] Open https://app.diagrams.net/
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/a15c7240-245d-46bd-be3f-939854d6bf02)
 
 
