@@ -1,5 +1,5 @@
 About Sandnet
-Full Documentation: 
+Full Documentation:
 https://sandnet.net
 
 SandNet Mapper is a visualization tool designed specifically for the game development platform, The Sandbox. 
