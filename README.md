@@ -82,5 +82,8 @@ The first thing diagrams will ask you is how you'd like to open your .drawio fil
 [6] The screen should look something like below. Some minor adjustments for efficiency might be needed, and I can cover that in a later video.
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/cc800023-649a-423a-91d7-fd1bb547426a)
 
+[7] Agora é necessario importar as 5 bibliotecas. A importação é um processo que só é necessario uma vez, bem como abrir o projeto .drawio.
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/00807211-fb28-43b8-bac9-7a7bfdb52760)
+
 
 
