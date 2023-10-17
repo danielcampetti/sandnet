@@ -58,7 +58,8 @@ Google Drive Installation (closed beta 1.3v)
 Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it:
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/084bd3a2-866c-4dd1-b043-fe6202a7c8fa)
 
-After that, unzip the file and you can place it in a folder on Google Drive. Due to features like auto-save and real-time project sharing that Google Drive offers, this is the recommended option.
+After that, unzip the file and you can place it in a folder on Google Drive. 
+Due to features like auto-save and real-time project sharing that Google Drive offers, this is the recommended option.
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/fefd1bb0-0d94-411e-ad38-6df8acdb987b)
 
 
