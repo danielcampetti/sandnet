@@ -69,7 +69,7 @@ Due to features like auto-save and real-time project sharing that Google Drive o
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/fefd1bb0-0d94-411e-ad38-6df8acdb987b?w=150)
 
 [3] Open https://app.diagrams.net
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/33725c2d-75f1-4f31-a5d6-d89f870237d8)
 
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/a15c7240-245d-46bd-be3f-939854d6bf02?w=150)
 
 
