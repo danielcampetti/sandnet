@@ -11,4 +11,11 @@ You can use its interface to create different types of diagrams like flowcharts,
 
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/2ea97509-5e44-42f9-9ae7-a11cbe6abc56)
 
+SandNet offers four graph libraries from The Sandbox Game Maker.
+
+lib_main-1.3
+lib_behaviors-1.3
+lib.components-1.3
+lib_quests-1.3
+lib_settings-1.3
 
