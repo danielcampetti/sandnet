@@ -79,6 +79,8 @@ The first thing diagrams will ask you is how you'd like to open your .drawio fil
 [5] In this case, we want to open the example file, so use the default credentials and find the file Sandnet_MAIN_1.3v.drawio in the folder you placed it in.
 ![image](https://github.com/danielcampetti/sandnet/assets/82032496/b9564ee4-db33-4ea6-ad13-cfb2b3549118)
 
+[6] The screen should look something like below. Some minor adjustments for efficiency might be needed, and I can cover that in a later video.
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/cc800023-649a-423a-91d7-fd1bb547426a)
 
 
 
