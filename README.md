@@ -52,6 +52,11 @@ LIBRARY TABLE
 </table>
 
 SETUP
+Diagrams.io lets you use your files and libraries in a variety of ways, from locally to GitHub or Google Drive.
+Google Drive Installation (closed beta 1.3v)
+
+Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it:
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/6d595a31-b4b9-4040-a3de-49d6257666f3)
 
 
 
