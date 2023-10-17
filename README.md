@@ -9,7 +9,7 @@ Sandnet is powered by draw.io or diagrams.net. Diagrams.net, previously known as
 You can use its interface to create different types of diagrams like flowcharts, wireframes, UML diagrams, org charts, and network diagrams. Some of its source code is available under the Apache 2 open-source license.
 [1] https://en.wikipedia.org/wiki/Diagrams.net
 
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/2ea97509-5e44-42f9-9ae7-a11cbe6abc56)
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/2ea97509-5e44-42f9-9ae7-a11cbe6abc56?w=550)
 
 SandNet offers four graph libraries from The Sandbox Game Maker.
 
