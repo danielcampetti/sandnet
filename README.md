@@ -56,7 +56,8 @@ Diagrams.io lets you use your files and libraries in a variety of ways, from loc
 Google Drive Installation (closed beta 1.3v)
 
 Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it:
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/6d595a31-b4b9-4040-a3de-49d6257666f3)
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/084bd3a2-866c-4dd1-b043-fe6202a7c8fa)
+
 
 
 
