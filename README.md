@@ -11,7 +11,8 @@ Sandnet is powered by draw.io or diagrams.net. Diagrams.net, previously known as
 You can use its interface to create different types of diagrams like flowcharts, wireframes, UML diagrams, org charts, and network diagrams. Some of its source code is available under the Apache 2 open-source license.
 [1] https://en.wikipedia.org/wiki/Diagrams.net
 
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/2ea97509-5e44-42f9-9ae7-a11cbe6abc56?w=550)
+![image](https://github.com/danielcampetti/sandnet/assets/82032496/4a74a937-2fd2-4896-919f-39c54dbae3e2)
+
 
 SandNet offers four graph libraries from The Sandbox Game Maker.
 
@@ -26,32 +27,32 @@ LIBRARY TABLE
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">lib_main-1.3.xml</td>
+    <td class="tg-0pky">lib_main-1.4.xml</td>
     <td class="tg-0pky">7</td>
     <td class="tg-0lax">"POOL, DOT, TIME, PLAYER, TAG, ASSET-LIST, HIERARCHY"</td>
   </tr>
   <tr>
-    <td class="tg-0pky">lib_behaviors-1.3.xml</td>
+    <td class="tg-0pky">lib_behaviors-1.4.xml</td>
     <td class="tg-0pky">37</td>
     <td class="tg-0lax">ALL TSB Behaviors + Separated by types</td>
   </tr>
   <tr>
-    <td class="tg-0pky">lib.components-1.3.xml</td>
+    <td class="tg-0pky">lib.components-1.4.xml</td>
     <td class="tg-0pky">21</td>
     <td class="tg-0lax">ALL TSB Components + Separated by types</td>
   </tr>
   <tr>
-    <td class="tg-0pky">lib_quests-1.3.xml</td>
+    <td class="tg-0pky">lib_quests-1.4.xml</td>
     <td class="tg-0pky">7</td>
     <td class="tg-0lax">Collect, TDeath, TSurvive, TDefend, TMessage, Message, Death</td>
   </tr>
   <tr>
-    <td class="tg-0lax">lib_settings-1.3.xml</td>
+    <td class="tg-0lax">lib_settings-1.4.xml</td>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">AVATAR, CAM-3rd, CAM-1st, CAM-Angled, CAM-Top, CAM-Comp, CAM-Control</td>
   </tr>
   <tr>
-    <td class="tg-0lax">+Sandnet_MAIN_1.3v.drawio</td>
+    <td class="tg-0lax">+Sandnet_MAIN_1.4v.drawio</td>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">Draw.io file</td>
   </tr>
