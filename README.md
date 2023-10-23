@@ -58,44 +58,5 @@ LIBRARY TABLE
 </tbody>
 </table>
 
-SETUP
-Diagrams.io lets you use your files and libraries in a variety of ways, from locally to GitHub or Google Drive.
-Google Drive Installation (closed beta 1.3v)
-
-[1] Even without GitHub permissions or an account, you can still download files from the repository. Here's an indicative image on how to do it
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/d9ea35d4-8e54-4965-a8a2-559157ba64d2)
-
-[2] After that, unzip the file and you can place it in a folder on Google Drive. 
-Due to features like auto-save and real-time project sharing that Google Drive offers, this is the recommended option
-
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/fefd1bb0-0d94-411e-ad38-6df8acdb987b?w=150)
-
-[3] Open https://app.diagrams.net
-The first thing diagrams will ask you is how you'd like to open your .drawio file. In this case Google Drive.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/33725c2d-75f1-4f31-a5d6-d89f870237d8)
-
-[4] The first thing diagrams will ask you is how you'd like to open your .drawio file
-
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/a5925dea-4d95-4e97-8b52-825bf7c1bc81)
-
-[5] In this case, we want to open the example file, so use the default credentials and find the file Sandnet_MAIN_1.3v.drawio in the folder you placed it in.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/b9564ee4-db33-4ea6-ad13-cfb2b3549118)
-
-[6] The screen should look something like below. Some minor adjustments for efficiency might be needed, and I can cover that in a later video.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/cc800023-649a-423a-91d7-fd1bb547426a)
-
-[7] Now you need to import the 5 libraries. The import is a one-time process, just like opening the .drawio project.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/00807211-fb28-43b8-bac9-7a7bfdb52760)
-
-[8] Now locate the desired library.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/174bc756-d0fe-4839-acf5-a0a5b8d8fb69)
-
-[9] and it will be imported.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/ffe08b76-0dfb-4c7b-9cbc-6000a62c7352)
-
-[10] After importing the 5 libraries, the installation process is complete.
-![image](https://github.com/danielcampetti/sandnet/assets/82032496/b535c0e3-e291-479a-bb90-a645263853e9)
-
-
 
 
