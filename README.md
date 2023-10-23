@@ -52,7 +52,7 @@ LIBRARY TABLE
     <td class="tg-0lax">AVATAR, CAM-3rd, CAM-1st, CAM-Angled, CAM-Top, CAM-Comp, CAM-Control</td>
   </tr>
   <tr>
-    <td class="tg-0lax">+Sandnet_MAIN_1.4v.drawio</td>
+    <td class="tg-0lax">-----.drawio</td>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">Draw.io file</td>
   </tr>
